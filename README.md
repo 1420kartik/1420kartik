@@ -10,7 +10,7 @@ With over two years of professional experience, I specialize in distributed syst
 ### 🌟 Some Cool Facts About Me:
 - I live in Hawaii and love cruising on my Indian motorcycle. 🏍️
 - I've gone skydiving twice—because why not? 🪂
-- Currently training for the Honolulu Marathon—running toward greatness. 🏃‍♂️
+- Recently completed the Honolulu Marathon 2024. 🏃‍♂️
 - I dream of conquering Mt. Everest, and one day, I will. 🏔️
 
 ### 🛠️ Tech Arsenal:
