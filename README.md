@@ -1,3 +1,5 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDN4anU1Z2g4OTc5NWF1cmlnZnplYTN0bzFxNXgxbGlpOWQxbXNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SaqRhlVBSqFUs/giphy.gif" width="1000" height="500" />
+
 # Aloha! I'm Kartik Saini.
 ### Software Developer / AI Enthusiast / Adventurer
 
